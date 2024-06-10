@@ -38,3 +38,6 @@ Daisy UI components are integrated into the project for ready-to-use UI elements
 
 *Cloudinary
 Image uploads are handled by Cloudinary. Ensure your Cloudinary credentials are correctly set in the .env file.
+
+![twitter clone1](https://github.com/Ukgrocks/Twitter-Clone/assets/99381477/8ef8210f-d560-490b-b648-7ad9e4a58048)
+
