@@ -1,9 +1,10 @@
+*Twitter Clone
 
-Twitter Clone
-Overview
-This project is a Twitter clone built using the MERN stack (MongoDB, Express.js, React, Node.js) along with Vite, Tailwind CSS, Daisy UI components, and Cloudinary for image processing. The application replicates core features of Twitter, including user authentication, tweeting, following/unfollowing users, liking tweets, and uploading images.
+*Overview
+This project is a Twitter clone built using the MERN stack (MongoDB, Express.js, React, Node.js) along with Vite, Tailwind CSS, Daisy UI components, and Cloudinary for image processing.
+The application replicates core features of Twitter, including user authentication, tweeting, following/unfollowing users, liking tweets, and uploading images.
 
-*Features
+*Features              
 1.User authentication (Sign up, Login, Logout)
 2.Create, read, and delete tweets
 3.Follow and unfollow users
